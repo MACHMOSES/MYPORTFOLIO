@@ -1,7 +1,6 @@
 
 import React,{useState} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Skills from './Skills';
 
 const Navbar = () => {
     const [home, setHome] = useState(false);
